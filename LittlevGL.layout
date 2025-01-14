@@ -2,44 +2,4 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="lvgl\src\lv_api_map.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="739" topLine="6" />
-		</Cursor>
-	</File>
-	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="221" topLine="5" />
-		</Cursor>
-	</File>
-	<File name="lv_drv_conf.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="10830" topLine="323" />
-		</Cursor>
-	</File>
-	<File name="lvgl\src\misc\lv_timer.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="247" topLine="2" />
-		</Cursor>
-	</File>
-	<File name="lv_drivers\win32drv\win32drv.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="201" topLine="126" />
-		</Cursor>
-	</File>
-	<File name="lv_drivers\display\R61581.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="556" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="lv_drivers\display\SSD1963.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="368" topLine="15" />
-		</Cursor>
-	</File>
-	<File name="lv_conf.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="15669" topLine="418" />
-		</Cursor>
-	</File>
 </CodeBlocks_layout_file>
