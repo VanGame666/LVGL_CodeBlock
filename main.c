@@ -6,7 +6,7 @@
 #include "lv_drivers/win32drv/win32drv.h"
 
 #include <windows.h>
-#include "my_gui.h"
+#include "screen0.h"
 
 
 
@@ -26,7 +26,7 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR szCmdLi
     LV_LOG_USER("LVGL initialization completed!");
 
     /*Run the demo*/
-    my_gui();
+    screen0();
 
     while(!lv_win32_quit_signal) {
         /* Periodically call the lv_task handler.

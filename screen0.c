@@ -1,5 +1,5 @@
 #include "lvgl/lvgl.h"
-#include "my_gui.h"
+#include "screen0.h"
 
 unsigned char speed = 0;
 
@@ -26,7 +26,7 @@ static void my_event_cb1(lv_event_t *e)
 
 
 
-void my_gui(void)
+void screen0(void)
 {
     static lv_style_t style1,style2;
     lv_style_init(&style1);

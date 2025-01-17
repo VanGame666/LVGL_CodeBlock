@@ -177,6 +177,65 @@
 		</Unit>
 		<Unit filename="lvgl/src/extra/layouts/grid/lv_grid.h" />
 		<Unit filename="lvgl/src/extra/layouts/lv_layouts.h" />
+		<Unit filename="lvgl/src/extra/libs/bmp/lv_bmp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lvgl/src/extra/libs/bmp/lv_bmp.h" />
+		<Unit filename="lvgl/src/extra/libs/freetype/lv_freetype.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lvgl/src/extra/libs/freetype/lv_freetype.h" />
+		<Unit filename="lvgl/src/extra/libs/fsdrv/lv_fs_fatfs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lvgl/src/extra/libs/fsdrv/lv_fs_posix.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lvgl/src/extra/libs/fsdrv/lv_fs_stdio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lvgl/src/extra/libs/fsdrv/lv_fs_win32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lvgl/src/extra/libs/fsdrv/lv_fsdrv.h" />
+		<Unit filename="lvgl/src/extra/libs/gif/gifdec.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lvgl/src/extra/libs/gif/gifdec.h" />
+		<Unit filename="lvgl/src/extra/libs/gif/lv_gif.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lvgl/src/extra/libs/gif/lv_gif.h" />
+		<Unit filename="lvgl/src/extra/libs/lv_libs.h" />
+		<Unit filename="lvgl/src/extra/libs/png/lodepng.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lvgl/src/extra/libs/png/lodepng.h" />
+		<Unit filename="lvgl/src/extra/libs/png/lv_png.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lvgl/src/extra/libs/png/lv_png.h" />
+		<Unit filename="lvgl/src/extra/libs/qrcode/lv_qrcode.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lvgl/src/extra/libs/qrcode/lv_qrcode.h" />
+		<Unit filename="lvgl/src/extra/libs/qrcode/qrcodegen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lvgl/src/extra/libs/qrcode/qrcodegen.h" />
+		<Unit filename="lvgl/src/extra/libs/rlottie/lv_rlottie.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lvgl/src/extra/libs/rlottie/lv_rlottie.h" />
+		<Unit filename="lvgl/src/extra/libs/sjpg/lv_sjpg.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lvgl/src/extra/libs/sjpg/lv_sjpg.h" />
+		<Unit filename="lvgl/src/extra/libs/sjpg/tjpgd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lvgl/src/extra/libs/sjpg/tjpgd.h" />
+		<Unit filename="lvgl/src/extra/libs/sjpg/tjpgdcnf.h" />
 		<Unit filename="lvgl/src/extra/lv_extra.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -727,9 +786,10 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="my_gui.c">
+		<Unit filename="screen0.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="screen0.h" />
 		<Extensions>
 			<code_completion>
 				<search_path add="E:\Projects\LittlevGL\" />
